@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Deluxe</string>
+    <string name="action_settings">Logout</string>
+    <string name="close">Finish</string>
+
+    <dimen name="count">10dp</dimen>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="Menu">
+        <item>Home</item>
+        <item>Login</item>
+        <item>Create Account</item>
+        <item>About</item>
+        <item>Share</item>
+        <item>Exit</item>
+    </string-array>
+    <string-array name="homMenu">
+        <item>Home</item>
+        <item>Create User</item>
+        <item>Users List</item>
+        <item>Change Password</item>
+        <item>Exit</item>
+    </string-array>
+    <string-array name="GustMenu">
+        <item>Home</item>
+        <item>My Cart List</item>
+        <item>My Orders</item>
+        <item>Accepted Requests</item>
+        <item>Change Password</item>
+        <item>Exit</item>
+    </string-array>
+    <string-array name="Manager">
+        <item>Home</item>
+        <item>New Products</item>
+        <item>Approved Requests</item>
+        <item>Sold out products</item>
+        <item>Orderd Products</item>
+        <item>Change Password</item>
+        <item>Exit</item>
+    </string-array>
+    <string-array name="supplier">
+        <item>My Products</item>
+        <item>Add New Products</item>
+        <item>Ordered Products</item>
+        <item>Change Password</item>
+        <item>Exit</item>
+    </string-array>
+    <string-array name="Location">
+        <item>Jemo</item>
+        <item>Alemgena</item>
+        <item>22</item>
+        <item>Saris</item>
+    </string-array>
+    <string-array name="usertype">
+        <item>Admin</item>
+        <item>Customer</item>
+        <item>Seller</item>
+        <item>Manager</item>
+        <item>Supplier</item>
+    </string-array>
+    <string-array name="SellerMenu">
+        <item>Home</item>
+        <item>Orderd Products</item>
+        <item>Sold Products</item>
+        <item>Sold Out Products</item>
+        <item>Change Password</item>
+        <item>Exit</item>
+    </string-array>
+    <string-array name="branch">
+        <item>Jemo</item>
+        <item>Kality</item>
+        <item>Ayer Tena</item>
+        <item>Torhayloch</item>
+    </string-array>
+
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_alogin">ALogin</string>
+    <string name="title_activity_user_acc">UserAcc</string>
+    <string name="title_activity_account">Account</string>
+    <string name="title_activity_check">Check</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home">AdminHome</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_add_product">AddProduct</string>
+    <string name="title_activity_prod_list">ProdList</string>
+    <string name="title_activity_guest_home">GuestHome</string>
+    <string name="title_activity_product__display">Product_Display</string>
+    <string name="title_activity_manager">Manager</string>
+    <string name="title_activity_supplier">Supplier</string>
+    <string name="title_activity_disp_supplier__product">Disp_supplier_Product</string>
+    <string name="title_activity_order__product">Order_Product</string>
+    <string name="title_activity_orderd__prod_list">Orderd_Prod_list</string>
+    <string name="title_activity_image__upload">Image_Upload</string>
+    <string name="title_activity_seller">Seller</string>
+    <string name="title_activity_view_order">View_order</string>
+    <string name="title_activity_userlist">Userlist</string>
+    <string name="title_activity_userinfo">Userinfo</string>
+    <string name="title_activity_cart_list">Cart_list</string>
+    <string name="title_activity_assign__product">Assign_Product</string>
+    <string name="title_activity_change__password">Change_Password</string>
+    <string name="title_activity_sold_out_product">Sold_out_product</string>
+    <string name="title_activity_cart_list_view">Cart_list_view</string>
+
+</resources>

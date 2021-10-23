@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/index"
+    android:orientation="vertical"
+    >
+   
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:orientation="horizontal"
+    >
+    
+    <LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:orientation="vertical"
+    >
+    <ImageView 
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+      android:id="@+id/imageView"
+        />
+    <Button 
+        android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:text="Select Image"
+   
+    android:background="@drawable/shape"
+     android:id="@+id/buttonSelect"
+        />
+    <Button 
+        android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:text="Upload Image"
+    android:background="@drawable/shape"
+    android:onClick="upld"
+    android:visibility="gone"
+     android:id="@+id/up1"
+        />
+    <EditText 
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+         android:id="@+id/editTextImageName"
+        />
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:orientation="vertical"
+    >
+    <ImageView 
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+      android:id="@+id/imageView2"
+        />
+    <Button 
+        android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shape"
+    android:text="Select Image"
+     android:id="@+id/buttonSelect2"
+        />
+     <Button 
+        android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:text="Upload Image"
+    android:background="@drawable/shape"
+    android:onClick="upld"
+    android:visibility="gone"
+     android:id="@+id/up2"
+        />
+    <EditText 
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+         android:id="@+id/editTextImageName2"
+        />
+</LinearLayout>
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:orientation="horizontal"
+    >
+    
+    <LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:orientation="vertical"
+    >
+    <ImageView 
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+      android:id="@+id/imageView3"
+        />
+    <Button 
+        android:layout_width="150dp"
+        android:background="@drawable/shape"
+    android:layout_height="wrap_content"
+    android:text="Select Image"
+     android:id="@+id/buttonSelect3"
+        />
+     <Button 
+        android:layout_width="150dp"
+        android:background="@drawable/shape"
+    android:layout_height="wrap_content"
+    android:text="Upload Image"
+    android:onClick="upld"
+    android:visibility="gone"
+     android:id="@+id/up3"
+        />
+    <EditText 
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+         android:id="@+id/editTextImageName3"
+        />
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:orientation="vertical"
+    >
+    <ImageView 
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+      android:id="@+id/imageView4"
+        />
+    <Button 
+        android:layout_width="150dp"
+        android:background="@drawable/shape"
+    android:layout_height="wrap_content"
+    android:text="Select Image"
+     android:id="@+id/buttonSelect4"
+        />
+     <Button 
+        android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shape"
+    android:text="Upload Image"
+    android:onClick="upld"
+    android:visibility="gone"
+     android:id="@+id/up4"
+        />
+    <EditText 
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+         android:id="@+id/editTextImageName4"
+        />
+</LinearLayout>
+
+</LinearLayout>
+
+</LinearLayout>
